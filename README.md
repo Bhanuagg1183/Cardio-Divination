@@ -1,6 +1,20 @@
 # Cardio-Divination
 
-Technologies: Python, Scikit-learn, Pandas, NumPy, Matplotlib, Machine Learning, SVM
+### Technologies: 
+
+Python
+
+Scikit-learn
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Machine Learning
+
+SVM
 
 
 # Objective
